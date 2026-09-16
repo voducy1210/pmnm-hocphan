@@ -1,6 +1,4 @@
 # pmnm-hocphan
-# Học Phần: Phát Triển Phần Mềm Mã Nguồn Mở
-
 ## Thông Tin Sinh Viên
 * **Họ và tên:** Võ Đức Ý
 * **Mã sinh viên:** 23T1020629
