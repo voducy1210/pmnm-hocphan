@@ -18,7 +18,7 @@ Tôi muốn học về phần mềm mã nguồn mở vì đây là nền tảng 
 | :---: | :--- | :--- | :--- |
 | 1 | **Visual Studio Code (Code - OSS)** | Trình biên tập mã nguồn phục vụ học tập và lập trình | **MIT License** |
 | 2 | **Git** | Hệ thống quản lý phiên bản phân tán để theo dõi source code | **GNU GPLv2** |
-| 3 | **Mozilla Firefox** | Trình duyệt web phục vụ tra cứu thông tin và kiểm thử giao diện | **Mozilla Public License 2.0 (MPL 2.0)** |
+| 3 | **Brave Browser** | Trình duyệt web bảo mật, chặn quảng cáo và kiểm thử web | **Mozilla Public License 2.0 (MPL 2.0)** |
 | 4 | **VLC Media Player** | Trình phát video, nhạc và đa phương tiện | **GNU GPLv2+ / LGPLv2.1+** |
 | 5 | **7-Zip** | Phần mềm nén và giải nén tệp tin hệ thống | **GNU LGPL** |
 
